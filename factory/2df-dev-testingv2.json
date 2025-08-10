@@ -1,0 +1,9 @@
+{
+	"name": "2df-dev-testingv2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b4fd780e-412a-438a-b3de-93a233b5af7d",
+		"tenantId": "86442b7e-0d4c-4c76-82c5-c8603e5c153f"
+	}
+}
